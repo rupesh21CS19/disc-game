@@ -3,7 +3,7 @@ const Dice = ({ diceNumber, setDiceNumber, RandomNumber }) => {
     <div className="m-auto pt-4  w-max text-center font-semibold text-lg cursor-pointer">
       <img
         className="bg-white w-40"
-        src={`res/dice_${diceNumber}.png`}
+        src={`../res/dice_${diceNumber}.png`}
         alt=""
         onClick={RandomNumber}
       />
