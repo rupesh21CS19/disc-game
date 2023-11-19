@@ -2,7 +2,7 @@ import { useState } from "react";
 import LandingPage from "./components/LandingPage";
 import GamePlay from "./components/GamePlay";
 function App() {
-  const [isStart, setGameStart] = useState(true);
+  const [isStart, setGameStart] = useState(false);
 
   const toggleGameStart = () => {
     setGameStart((prev) => !prev);
