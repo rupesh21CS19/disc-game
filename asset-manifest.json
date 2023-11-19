@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/disc-game/static/css/main.18914df6.css",
+    "main.js": "/disc-game/static/js/main.5675fbe7.js",
+    "index.html": "/disc-game/index.html",
+    "main.18914df6.css.map": "/disc-game/static/css/main.18914df6.css.map",
+    "main.5675fbe7.js.map": "/disc-game/static/js/main.5675fbe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18914df6.css",
+    "static/js/main.5675fbe7.js"
+  ]
+}
