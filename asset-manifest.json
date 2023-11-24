@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/disc-game/static/css/main.18914df6.css",
-    "main.js": "/disc-game/static/js/main.5675fbe7.js",
+    "main.css": "/disc-game/static/css/main.65224cec.css",
+    "main.js": "/disc-game/static/js/main.eebf9692.js",
+    "static/media/dices.png": "/disc-game/static/media/dices.dd209eaf1218f8d4fda3.png",
     "index.html": "/disc-game/index.html",
-    "main.18914df6.css.map": "/disc-game/static/css/main.18914df6.css.map",
-    "main.5675fbe7.js.map": "/disc-game/static/js/main.5675fbe7.js.map"
+    "main.65224cec.css.map": "/disc-game/static/css/main.65224cec.css.map",
+    "main.eebf9692.js.map": "/disc-game/static/js/main.eebf9692.js.map"
   },
   "entrypoints": [
-    "static/css/main.18914df6.css",
-    "static/js/main.5675fbe7.js"
+    "static/css/main.65224cec.css",
+    "static/js/main.eebf9692.js"
   ]
 }
